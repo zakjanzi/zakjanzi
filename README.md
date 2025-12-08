@@ -1,6 +1,5 @@
 # Hey, I'm Zak 👋
 
-## What I Do  
 I work at the intersection of **DevOps, QA, and automation**, building dependable systems and streamlined developer workflows.  
 My background blends **DevOps/SRE** with a **QA-first approach**, allowing me to design scalable cloud setups, automate infrastructure, and craft robust testing pipelines.
 
@@ -23,7 +22,7 @@ A JavaScript-based tool that creates cryptocurrency wallets using BIP39 standard
 🔗 https://zakjanzi.me/projects/bip39
 
 ### **Homelab Media Server**
-A self-managed Kubernetes setup running on dedicated hardware, powering my personal Plex media server and other services.  
+A self-managed Kubernetes setup running on dedicated hardware, powering my personal Plex media server and a Pi-Hole.  
 🔗 https://zakjanzi.me/projects/homelab
 
 ### **Lebanese Lira Rate Scraper**
